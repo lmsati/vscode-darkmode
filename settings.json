@@ -1,0 +1,21 @@
+{
+  "window.zoomLevel": -1,
+  "editor.tabSize": 2,
+  "workbench.colorCustomizations": {
+      "editor.background": "#000000",
+      "editor.foreground": "#fff",
+      "editor.selectionBackground": "#00d4fa50",
+      "activityBar.background": "#000000",
+      "activityBar.border": "#ffffff30",
+      "sideBar.background": "#0a0a0a",
+      "sideBar.border": "#ffffff30",
+      "minimap.background": "#0a0a0a",
+      "editorGroupHeader.tabsBackground": "#000000",
+      "statusBar.background": "#002129",
+      "titleBar.activeBackground": "#002129",
+      "welcomePage.background": "#000000",
+      "breadcrumb.foreground": "#fff",
+      "statusBarItem.remoteBackground": "#ffffffd5",
+      "statusBarItem.remoteForeground": "#000000",
+  }
+}
