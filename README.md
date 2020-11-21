@@ -10,12 +10,12 @@
 
 Add settings in **Preferences: settings (JSON)** file on VSCODE. 
 
-## TESTED ON:
+### TESTED ON:
 
 - VSCODE Windows 10
 - WSL: Ubuntu-18.04
 - WSL: Ubuntu-20.04
 
-## NOTE:
+### NOTE:
 
 Feel free to add, remove or edit settings to your liking in your machine.
